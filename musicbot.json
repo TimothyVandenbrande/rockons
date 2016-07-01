@@ -12,10 +12,10 @@
                 },
                 "environment": {
                     "PUID": {
-		        "description": "Enter a valid UID to run the musicbot as.",
+                        "description": "Enter a valid UID to run the musicbot as.",
                         "label": "UID to run the musicbot as.",
                         "index": 1
-		    },
+                    },
                     "PGID": {
                         "description": "Enter a valid GID to use along with the above UID.",
                         "label": "GID to run the musicbot as.",
@@ -29,7 +29,7 @@
             "slug": ""
         },
         "volume_add_support": true,
-	"website": "https://github.com/SexualRhinoceros/MusicBot",
-	"version": "1.0"
+        "website": "https://github.com/SexualRhinoceros/MusicBot",
+        "version": "1.0"
     }
 }
